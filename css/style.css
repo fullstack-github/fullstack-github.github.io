@@ -1326,3 +1326,11 @@ body>.ripple {
         padding-left: 45px
     }
 }
+
+.skill-lang {
+    word-break: break-word;
+    font-weight: normal;
+    text-transform: capitalize;
+    font-size: 14px;
+    line-height: normal;
+}
