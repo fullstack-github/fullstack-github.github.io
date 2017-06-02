@@ -58,7 +58,7 @@ body.loaded #preloader {
     content: ' '
 }
 * {
-    font-family: inherit
+    font-family: 'Roboto Mono', monospace;
 }
 .font-alt,
 .menu-items,
